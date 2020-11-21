@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/React-Port/static/css/main.38e17d11.chunk.css",
+    "main.js": "/React-Port/static/js/main.ecc9f1af.chunk.js",
+    "main.js.map": "/React-Port/static/js/main.ecc9f1af.chunk.js.map",
+    "runtime-main.js": "/React-Port/static/js/runtime-main.99b1a67d.js",
+    "runtime-main.js.map": "/React-Port/static/js/runtime-main.99b1a67d.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/React-Port/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.e365aee8.chunk.js": "/React-Port/static/js/2.e365aee8.chunk.js",
+    "static/js/2.e365aee8.chunk.js.map": "/React-Port/static/js/2.e365aee8.chunk.js.map",
+    "static/js/3.d6409753.chunk.js": "/React-Port/static/js/3.d6409753.chunk.js",
+    "static/js/3.d6409753.chunk.js.map": "/React-Port/static/js/3.d6409753.chunk.js.map",
+    "index.html": "/React-Port/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/React-Port/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.38e17d11.chunk.css.map": "/React-Port/static/css/main.38e17d11.chunk.css.map",
+    "static/js/2.e365aee8.chunk.js.LICENSE.txt": "/React-Port/static/js/2.e365aee8.chunk.js.LICENSE.txt",
+    "static/media/IG.2e5d9720.png": "/React-Port/static/media/IG.2e5d9720.png",
+    "static/media/Scheduleclip.468c0b4c.png": "/React-Port/static/media/Scheduleclip.468c0b4c.png",
+    "static/media/artisthop.c2ef6ec1.jpg": "/React-Port/static/media/artisthop.c2ef6ec1.jpg",
+    "static/media/burger.f732a023.jpg": "/React-Port/static/media/burger.f732a023.jpg",
+    "static/media/fb.47b4b92c.png": "/React-Port/static/media/fb.47b4b92c.png",
+    "static/media/github.3f6c4251.png": "/React-Port/static/media/github.3f6c4251.png",
+    "static/media/linkedin.14ccc4bb.png": "/React-Port/static/media/linkedin.14ccc4bb.png",
+    "static/media/profilepic.07a6fbb8.png": "/React-Port/static/media/profilepic.07a6fbb8.png",
+    "static/media/readmegenclip.03e378df.png": "/React-Port/static/media/readmegenclip.03e378df.png",
+    "static/media/team.f1bd8811.jpg": "/React-Port/static/media/team.f1bd8811.jpg",
+    "static/media/twitter.a6243eee.png": "/React-Port/static/media/twitter.a6243eee.png",
+    "static/media/voter.42e3c6de.jpg": "/React-Port/static/media/voter.42e3c6de.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99b1a67d.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.e365aee8.chunk.js",
+    "static/css/main.38e17d11.chunk.css",
+    "static/js/main.ecc9f1af.chunk.js"
+  ]
+}
